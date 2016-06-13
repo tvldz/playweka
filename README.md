@@ -1,5 +1,5 @@
 # playweka
-Gathers application permissions data from the Google Play Store and formats it for analysis by [Weka](http://www.cs.waikato.ac.nz/ml/weka/).
+Gathers application permissions data from the Google Play Store and formats it for Machine Learning analysis by [Weka](http://www.cs.waikato.ac.nz/ml/weka/).
 
 ```
 playweka.py
